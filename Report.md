@@ -7,7 +7,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[Багрепорт 1](https://github.com/Dmitrii-Fedotov/Java-1.2.1/issues/1)
+[Баг репорт 1](https://github.com/Dmitrii-Fedotov/Java-1.2.1/issues/1)
 
 В качестве тестовых данных использовались данные [Задание 1.2 Задача №1](https://github.com/netology-code/javaqa-homeworks/tree/master/programming) :
 
