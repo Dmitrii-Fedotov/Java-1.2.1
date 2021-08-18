@@ -7,9 +7,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[Багрепорт 1](https://github.com/Dmitrii-Fedotov/Java-1.2.1/issues/1)п
+[Баг репорт 1](https://github.com/Dmitrii-Fedotov/Java-1.2.1/issues/1)
 
-В качестве тестовых данных использовались данные [Задание 1.2 Задача №1] (https://github.com/netology-code/javaqa-homeworks/tree/master/programming) :
+В качестве тестовых данных использовались данные [Задание 1.2 Задача №1](https://github.com/netology-code/javaqa-homeworks/tree/master/programming) :
 
 Текущий баланс счёта клиента - 2_000_000_000 (два миллиарда рублей)  
 Сумма перевода - 500_000_000 (пятьсот миллионов рублей)  
